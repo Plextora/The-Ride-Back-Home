@@ -45,9 +45,8 @@ while command != "quit":
     print("""Type "quit" to quit out of the game """)
   elif command == "help":
     print("""
-    start - to start the car
-    stop - to stop the car
-    help - to bring up this dialog
+    start - to start the game
+   help - to bring up this dialog
     quit - to quit out of this game ;-;
     """)
   elif command == "quit":
